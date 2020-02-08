@@ -1,0 +1,16 @@
+
+{
+  "(get request)/api":"api docs",
+  "(post request)/api/signup":"signup",
+  "(post request)/api/signin":"signin",
+  "(get request)/api/signout":"signout",
+  "(get request)/api/users":"get all users",
+  "(get request)/api/user/:userId":"get user",
+  "(post request)/api/user/:userId":"update user",
+  "(delete request)/api/user/:userId":"delete user",
+  "(get request)/api/posts":"get all posts",
+  "(post request)/api/post/new/:userId":"create a new post",
+  "(post request)/api/posts/new/:userId":"get posts by user",
+  "(post request)/api/post/:postId":"update post",
+  "(delete request)/api/post/:postId":"delete post"
+}
